@@ -6,6 +6,22 @@ __pycache__/
 # C extensions
 *.so
 
+# Fold "upload"
+upload/
+
+# Files root
+image.jpg
+imagen_con_rectangulos.jpg
+
+# Derived by "upload"
+upload/image_byte.jpg
+upload/parameters.txt
+
+# Specific scripts
+decodificador.py
+videotoimage.py
+jetsonnano.py
+
 # Distribution / packaging
 .Python
 build/
