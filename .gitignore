@@ -14,8 +14,8 @@ image.jpg
 imagen_con_rectangulos.jpg
 
 # Derived by "upload"
-upload/image_byte.jpg
-upload/parameters.txt
+API/upload/image_byte.jpg
+API/upload/parameters.txt
 
 # Specific scripts
 decodificador.py
